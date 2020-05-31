@@ -1,0 +1,12 @@
+.land {
+    fill: #0275d8;
+    fill-opacity: 1;
+    stroke: #292b2c;
+    stroke-opacity: 0.8;
+    stroke-width: 0.8;
+}
+
+.land:hover {
+    fill: #0275ee;
+    fill-opacity: 0.5;
+}

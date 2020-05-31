@@ -1,0 +1,12 @@
+{
+    "solr": {
+        "url": "http://192.168.11.5:8983/solr",
+        "collection": "investment"
+    },
+    "elasticsearch": {
+        "index": "investment",
+        "nodes": [
+            "http://192.168.10.4:9200"
+        ] 
+    }
+}
